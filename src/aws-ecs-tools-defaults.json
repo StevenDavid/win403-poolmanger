@@ -1,0 +1,21 @@
+{
+    "profile": "default",
+    "region": "us-east-1",
+    "configuration": "Release",
+    "tag": "webapi",
+    "launch-type": "FARGATE",
+    "launch-subnets": "subnet-0f08e546bfedf4f44,subnet-0faab1dbcac4b833d",
+    "launch-security-groups": "sg-0685fbc3e4bec674f",
+    "assign-public-ip": "true",
+    "desired-count": 1,
+    "task-cpu": 256,
+    "task-memory": 512,
+    "cluster": "DotNetSQLPoolTest",
+    "cluster-service": "DBTestWebapi2-service",
+    "task-definition-name": "Webapi2-t",
+    "container-name": "Webapi2-c",
+    "container-port-mapping": "80:80",
+    "container-memory-hard-limit": 512,
+    "container-memory-soft-limit": 256,
+    "task-definition-task-role": "arn:aws:iam::017073335123:role/ecsTaskExecutionRole"
+  }

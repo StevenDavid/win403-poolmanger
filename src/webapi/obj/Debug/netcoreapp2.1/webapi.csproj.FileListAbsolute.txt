@@ -1,0 +1,14 @@
+/Users/sdsteve/Documents/Code/wincon2019/webapi/src/webapi/bin/Debug/netcoreapp2.1/webapi.deps.json
+/Users/sdsteve/Documents/Code/wincon2019/webapi/src/webapi/bin/Debug/netcoreapp2.1/webapi.runtimeconfig.json
+/Users/sdsteve/Documents/Code/wincon2019/webapi/src/webapi/bin/Debug/netcoreapp2.1/webapi.runtimeconfig.dev.json
+/Users/sdsteve/Documents/Code/wincon2019/webapi/src/webapi/bin/Debug/netcoreapp2.1/webapi.dll
+/Users/sdsteve/Documents/Code/wincon2019/webapi/src/webapi/bin/Debug/netcoreapp2.1/webapi.pdb
+/Users/sdsteve/Documents/Code/wincon2019/webapi/src/webapi/obj/Debug/netcoreapp2.1/webapi.csprojAssemblyReference.cache
+/Users/sdsteve/Documents/Code/wincon2019/webapi/src/webapi/obj/Debug/netcoreapp2.1/webapi.csproj.CoreCompileInputs.cache
+/Users/sdsteve/Documents/Code/wincon2019/webapi/src/webapi/obj/Debug/netcoreapp2.1/webapi.RazorAssemblyInfo.cache
+/Users/sdsteve/Documents/Code/wincon2019/webapi/src/webapi/obj/Debug/netcoreapp2.1/webapi.RazorAssemblyInfo.cs
+/Users/sdsteve/Documents/Code/wincon2019/webapi/src/webapi/obj/Debug/netcoreapp2.1/webapi.AssemblyInfoInputs.cache
+/Users/sdsteve/Documents/Code/wincon2019/webapi/src/webapi/obj/Debug/netcoreapp2.1/webapi.AssemblyInfo.cs
+/Users/sdsteve/Documents/Code/wincon2019/webapi/src/webapi/obj/Debug/netcoreapp2.1/webapi.RazorTargetAssemblyInfo.cache
+/Users/sdsteve/Documents/Code/wincon2019/webapi/src/webapi/obj/Debug/netcoreapp2.1/webapi.dll
+/Users/sdsteve/Documents/Code/wincon2019/webapi/src/webapi/obj/Debug/netcoreapp2.1/webapi.pdb
