@@ -16,6 +16,5 @@
     "container-name": "Webapi2-c",
     "container-port-mapping": "80:80",
     "container-memory-hard-limit": 512,
-    "container-memory-soft-limit": 256,
-    "task-definition-task-role": "arn:aws:iam::017073335123:role/ecsTaskExecutionRole"
+    "container-memory-soft-limit": 256
   }
