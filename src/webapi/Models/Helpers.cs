@@ -20,9 +20,9 @@ namespace webapi.Models
       Console.WriteLine("GetMSSQLConnectionString Called");
       if (currentMSSQL_CS == "") {
         DB_CS currentCSObject = new DB_CS();
-        currentCSObject.host = "testdb1.cfz4apkescxn.us-east-1.rds.amazonaws.com";
-        currentCSObject.username = "steven";
-        currentCSObject.password = "love9532";
+        currentCSObject.host = "{server address}";
+        currentCSObject.username = "{user name}";
+        currentCSObject.password = "{password}";
         currentMSSQL_CS = $"Data Source={currentCSObject.host};User ID={currentCSObject.username};Password={currentCSObject.password}";
       }
       return currentMSSQL_CS;
